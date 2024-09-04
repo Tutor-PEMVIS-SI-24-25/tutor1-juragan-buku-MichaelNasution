@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:06 PM"/>
+        <attribute name="created" value="QVNVUztLQUxFSDsyMDI0LTA5LTA0OzA4OjU3OjM5IFBNOzE5NzA="/>
+        <attribute name="edited" value="QVNVUztLQUxFSDsyMDI0LTA5LTA0OzA5OjEwOjA2IFBNOzE7MjA2Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ISBN" type="String" array="False" size=""/>
+            <declare name="Judul" type="String" array="False" size=""/>
+            <declare name="Penulis" type="String" array="False" size=""/>
+            <declare name="Tterbit" type="Integer" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
